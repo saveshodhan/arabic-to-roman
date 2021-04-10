@@ -56,7 +56,7 @@ Returns:
     str: Roman equivalent of `num` passed.
 
 Raises:
-    InvalidNumeralException: This exception is raised when the `num` passes is either
+    InvalidNumeralException: This exception is raised when the `num` passed is either
         non-integer or an integer less than or equal to zero.
 
 Example:
